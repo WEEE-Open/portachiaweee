@@ -1,0 +1,24 @@
+** Drc report for porta_chiaweee.kicad_pcb **
+** Created on 2026-05-21T17:15:28+0200 **
+
+** Found 2 DRC violations **
+[invalid_outline]: Board has malformed outline (no edges found on Edge.Cuts layer)
+    Local override; error
+    @(0.0000 mm, 0.0000 mm): PCB
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(125.0000 mm, 74.5000 mm): Arc of BT1 on B.Silkscreen
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(121.2500 mm, 103.2500 mm): PTH pad 1 [Net-(BT1-+)] of SW1
+    @(138.5000 mm, 92.5000 mm): Track [Net-(BT1-+)] on B.Cu, length 15.2028 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(121.2500 mm, 107.7500 mm): PTH pad 2 [Net-(D1-A)] of SW1
+    @(129.0510 mm, 106.4490 mm): Track [Net-(D1-A)] on F.Cu, length 1.8399 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
