@@ -391,7 +391,7 @@
 			(net 1 "Net-(BT1-+)")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "90d1a621-49f5-4522-ac40-08440b54be10")
+			(uuid "4a642fae-61d7-4b1f-b7c4-39b70d3962f1")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -413,7 +413,7 @@
 			(net 3 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b20d1a00-b739-48a9-a3de-d0222294f63a")
+			(uuid "e65905f1-c8d5-45d8-ad43-c02f8702d613")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H13mm.wrl"
